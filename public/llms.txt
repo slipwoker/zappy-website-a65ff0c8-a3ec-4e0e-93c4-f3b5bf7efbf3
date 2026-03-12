@@ -1,45 +1,35 @@
-# Pro Tips Brawl Stars — Generative Engine Optimization Map
-
-> A vibrant gaming tips website dedicated to Brawl Stars, featuring comprehensive gameplay advice and gadget recommendations for each character. The site embodies the colorful, energetic atmosphere of the game itself, serving as a resource hub for players seeking to improve their strategy and character builds.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### בית
-https://pro-tips-brawl-stars-a65ff0c8.zappy5.app
+https://example.com
 גלה טיפים מתקדמים לבראול סטארס, המלצות גאג&#39;טים אופטימליות לכל דמות ואסטרטגיות מנצחות. הפוך לשחקן מוביל עם המדריכים המקיפים שלנו!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://pro-tips-brawl-stars-a65ff0c8.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://pro-tips-brawl-stars-a65ff0c8.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://pro-tips-brawl-stars-a65ff0c8.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Pro Tips Brawl Stars
-A vibrant gaming tips website dedicated to Brawl Stars, featuring comprehensive gameplay advice and gadget recommendations for each character. The site embodies the colorful, energetic atmosphere of the game itself, serving as a resource hub for players seeking to improve their strategy and character builds.
-
-## Target Audience
-שחקני בראול סטארס
-
-## Industry
-גיימינג ומשחקים
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://pro-tips-brawl-stars-a65ff0c8.zappy5.app/sitemap.xml
-- **Robots.txt**: https://pro-tips-brawl-stars-a65ff0c8.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
