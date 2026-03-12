@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pro-tips-brawl-stars-a65ff0c8.zappy5.app/sitemap.xml
